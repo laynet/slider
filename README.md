@@ -15,11 +15,11 @@ Menu app that can be filtered by category made with create react app and react h
 
 ### Screenshot
 
-![Main page](./src/tabsss.png)
+![Main page](./src/sliderss.png)
 
 ### Links
 
-- Live Site URL: [Deployed with netlify](https://earnest-torrone-ef91ae.netlify.app/)
+- Live Site URL: [Deployed with netlify](https://tubular-frangipane-16f1c6.netlify.app/)
 
 ## My process
 
